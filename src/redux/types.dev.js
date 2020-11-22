@@ -1,0 +1,16 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.ENABLE_BUTTONS = exports.DISABLE_BUTTONS = exports.CHANGE_THEME = exports.DECREMENT = exports.INCREMENT = void 0;
+var INCREMENT = "INCREMENT";
+exports.INCREMENT = INCREMENT;
+var DECREMENT = "DECREMENT";
+exports.DECREMENT = DECREMENT;
+var CHANGE_THEME = "CHANGE_THEME";
+exports.CHANGE_THEME = CHANGE_THEME;
+var DISABLE_BUTTONS = "DISABLE_BUTTONS";
+exports.DISABLE_BUTTONS = DISABLE_BUTTONS;
+var ENABLE_BUTTONS = "ENABLE_BUTTONS";
+exports.ENABLE_BUTTONS = ENABLE_BUTTONS;
